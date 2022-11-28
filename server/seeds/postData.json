@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The hike",
+    "postText": "This hike was pretty hard, it was steep",
+    "postOwner": "John Doe"
+  },
+  {
+    "title": "The Bike Ride",
+    "postText": "This bike ride was pretty hard, it was steep",
+    "postOwner": "Jane Doe"
+  },
+  {
+    "title": "Paddle Boarding",
+    "postText": "This activity was so easy",
+    "postOwner": "Josh Doe"
+  }
+]
